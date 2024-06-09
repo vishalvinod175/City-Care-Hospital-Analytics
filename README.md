@@ -62,12 +62,3 @@ IF(
 
 
 
-
-
-
-
-
-
-
-
-          ![2024-06-09 (3)](https://github.com/viskypapi/Heathcare-Analytics-PowerBI-DAX-Queries/assets/164670302/7585544f-05df-40dd-b164-c72627ecfa6d)
