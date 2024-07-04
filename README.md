@@ -76,7 +76,6 @@ IF(
 20) Final Result -
 
 
-    ![2024-06-09 (3)](https://github.com/viskypapi/Heathcare-Analytics-PowerBI-DAX-Queries/assets/164670302/9bc605f1-9a9b-4fee-aef7-6ab08ae11884)
 
 
 
