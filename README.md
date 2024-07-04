@@ -2,7 +2,8 @@
 
 
 
-![2024-06-09 (3)](https://github.com/vishalvinod175/Hospital-Analytics-PowerBI-DAX-Queries/assets/164670302/5e68f052-ec6a-40ac-8918-0ac72c91acaf)
+![2024-06-09 (3)](https://github.com/vishalvinod175/Hospital-Analytics-PowerBI-DAX-Queries/assets/164670302/5e68f052-ec6a-40ac-8918-0ac72c91acaf)    
+
 
 
 1) Load the Data. Open the PowerQuery Editor to change the name of the tables and columns, according to your ease. Make sure the data is accurate with the correct Datatypes.
