@@ -73,7 +73,6 @@ IF(
 18) Measure 11 - **"%Female Patients**" -  
 `DIVIDE(CALCULATE([Total Patients],'Hospital ER'[patient_gender]="F"),[Total Patients])` (Format to **Percentage**)
 19) You can design the report in your own ways through the Measures above. Thank you.
-20) Final Result -
 
 
 
