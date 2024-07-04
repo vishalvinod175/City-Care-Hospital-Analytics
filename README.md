@@ -1,13 +1,14 @@
 # Heathcare-Analytics-PowerBI-DAX-Queries   
 
 
-
-![2024-06-09 (3)](https://github.com/vishalvinod175/Hospital-Analytics-PowerBI-DAX-Queries/assets/164670302/7ba18e59-f9f2-466a-ad8e-6003d22f929f)
-
+![2024-06-09 (3)](https://github.com/vishalvinod175/Hospital-Analytics-PowerBI-DAX-Queries/assets/164670302/4714edd2-1e83-476b-ae18-c127b67c4a69)
 
 
 
-![2024-07-05](https://github.com/vishalvinod175/Hospital-Analytics-PowerBI-DAX-Queries/assets/164670302/20ba8466-63f3-4a42-9c74-788d3802c68b)
+
+![2024-07-05](https://github.com/vishalvinod175/Hospital-Analytics-PowerBI-DAX-Queries/assets/164670302/af6784c4-4b60-4925-9528-26a9c1c30da6)
+
+
 
 
 
