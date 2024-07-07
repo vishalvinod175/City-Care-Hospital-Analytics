@@ -1,6 +1,6 @@
-# Heathcare-Analytics-PowerBI-DAX-Queries   
+# City Care-Hospital-PowerBI-DAX-Queries   
 
-City Care Hospital is a renowned hospital in Bengaluru. They want to get a better understanding of their patient background and needs so that the hospital can assist them in better ways.
+City Care Hospital is a renowned hospital. They want to get a better understanding of their patient background and needs so that the hospital can assist them in better ways.
 
 **Problem Statement** -
 With plans of improving the hospital's services, the CEO of City Care Hospital has asked Vishal Vinod to analyse the provided sample data and report key findings to the management of City Care Hospital. This analysis is expected to guide them in serving their patients better and make sure their treatments involve lesser hassles. 
@@ -33,8 +33,108 @@ Vishal’s task is to focus on implementing suggested metrics, designing an easy
 # Final Dashboard   
 
 ![2024-07-07 (9)](https://github.com/vishalvinod175/City-Care-Hospital-Analytics/assets/164670302/b6fa83e7-2595-42b7-be2b-55676acb84b8)   
-![2024-07-07 (10)](https://github.com/vishalvinod175/City-Care-Hospital-Analytics/assets/164670302/56f241b4-9efb-49d1-92e0-f19d01c6dc13)
+![2024-07-07 (10)](https://github.com/vishalvinod175/City-Care-Hospital-Analytics/assets/164670302/56f241b4-9efb-49d1-92e0-f19d01c6dc13)   
 
+# Key Metrics   
+* Total number of patients were 4998.
+* Gender Distribution: 51.24% Male, 48.48% Female and 0.28% Unknown.
+* ### Age Distribution: Adults constitute the majority at 3832 patients.
+*  ### Visit Trends-   
+1. Monthly Distribution:   
+        Peak in May with 581 patients.   
+        Lowest in December with 246 patients.    
+
+2. Weektype Distribution:   
+        3576 patients on weekdays.
+        1422 patients on weekends.
+
+3. Yearly Distribution:    
+        2019: 2351 patients    
+        2020: 2647 patients    
+
+* ### Patient Feedback-
+
+    Rating:   
+        76% of patients gave no rating.    
+    Satisfaction Score:    
+        Average satisfaction score is 5.    
+    Average Wait Time:    
+        35 minutes on average.    
+    Referral Status:    
+        40.90% of patients were referred.     
+        59.10% were not referred.     
+
+* ### Departments and Referrals
+
+    Departments Referred to:    
+        General Practice: 986 patients    
+        Orthopedics: 504 patients     
+        Physiotherapy: 172 patients   
+        Cardiology: 132 patients   
+        Gastroenterology: 104 patients   
+        Neurology: 101 patients    
+        Renal: 45 patients    
+        None: 2954 patients       
+
+* ### Patient Race and Satisfaction    
+Patient satisfaction varies by age and race, with the dark green indicating the highest satisfaction scores. Specific breakdowns by race are not provided but can be deduced from the heatmap.   
+
+# Recommendations   
+
+* ### Improve Patient Feedback Collection   
+
+Increase Feedback Participation:    
+Develop a more engaging feedback system, such as user-friendly digital surveys that patients can complete on their mobile devices. Consider follow-up surveys via email or SMS for patients who did not provide feedback during their visit.
+
+* ### Optimize Resource Allocation    
+
+Adjust Staffing Based on Volume Trends:   
+1. Increase staffing levels during peak months like May and higher-volume weekdays to handle the increased patient load efficiently.   
+2. Implement a flexible staffing schedule to better manage patient influx during off-peak times, such as December and weekends.    
+
+* ### Enhance Operational Efficiency   
+
+Reduce Wait Times:
+1. Streamline the triage process to ensure quick and efficient patient assessment and prioritization, potentially reducing the average wait time of 35 minutes.    
+2. Introduce an online check-in system to allow patients to register before arriving at the ER, reducing congestion and wait times upon arrival.    
+
+* ### Improve Patient Satisfaction   
+
+Targeted Satisfaction Improvements:
+1. Analyze the 24% of patients who provided ratings to identify common issues and address them. This can help improve the overall satisfaction score from the current average of 5.   
+2. Enhance patient communication by providing regular updates on wait times and treatment progress.    
+
+* ### Streamline Referral Processes   
+
+Optimize Referral System:
+1. Implement an electronic referral system to ensure seamless communication and reduce delays between the ER and referral departments.   
+2. Regularly review referral processes to identify bottlenecks and ensure patients are referred to the appropriate departments in a timely manner.    
+
+* ### Address Demographic-Specific Needs    
+
+Tailored Health Programs:
+1. Develop specific health programs and services for different age groups, given that adults are the largest patient group but children and teenagers also constitute a significant portion.    
+2. Offer culturally competent care and targeted health education to address the needs of diverse racial groups, as indicated by the satisfaction heatmap.    
+
+* ### Leverage Technology    
+
+Implement Digital Health Solutions:
+1. Use telemedicine services for non-emergency consultations, which can reduce the number of unnecessary ER visits.   
+2. Develop a mobile app for patient scheduling, check-ins, and accessing health information to improve the overall patient experience.    
+
+* ### Continuous Improvement   
+
+Regular Training and Development:
+1. Provide continuous training for staff on best practices for patient care and customer service to improve patient interactions and satisfaction.    
+2. Encourage staff to participate in quality improvement initiatives and provide feedback on ways to enhance ER operations.    
+
+* ### Monitor and Evaluate Performance
+
+Regular Data Analysis:    
+1. Regularly review and analyze performance metrics such as wait times, patient satisfaction scores, and referral outcomes to identify areas for improvement.    
+2.  Use predictive analytics to forecast patient volumes and adjust resources and staffing accordingly to ensure optimal patient care.    
+
+By implementing these targeted suggestions, the Emergency Room can enhance its operational efficiency, improve patient satisfaction, and better manage its resources to provide high-quality care to its patients.
 
 
 
