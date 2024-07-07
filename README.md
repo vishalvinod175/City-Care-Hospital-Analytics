@@ -1,12 +1,46 @@
 # Heathcare-Analytics-PowerBI-DAX-Queries   
 
+City Care Hospital is a renowned hospital in Bengaluru. They want to get a better understanding of their patient background and needs so that the hospital can assist them in better ways.
 
-![2024-06-09 (3)](https://github.com/vishalvinod175/Hospital-Analytics-PowerBI-DAX-Queries/assets/164670302/4714edd2-1e83-476b-ae18-c127b67c4a69)
+**Problem Statement** -
+With plans of improving the hospital's services, the CEO of City Care Hospital has asked Vishal Vinod to analyse the provided sample data and report key findings to the management of City Care Hospital. This analysis is expected to guide them in serving their patients better and make sure their treatments involve lesser hassles. 
+
+Vishal’s task is to focus on implementing suggested metrics, designing an easy-to-understand dashboard, and creatively presenting key insights to City Care Hospital's  top-level management and strategy team.
+
+**Tools Used** - Microsoft PowerBI for Desktop Application   
+
+# Building the Dashboard   
+ 
+ * Load all the Data. Open the PowerQuery Editor to change the name of the tables and columns, according to your ease. Make sure the data is accurate with the correct Datatypes.
+* Rename the tables for your ease of work. Check that the headers have been promoted.
+* Establish relationships between tables.
+* Created custom and quick measures for key metrics and insights.
+* Utilized DAX queries for performing BI calculations.
+* Designed KPIs to highlight important metrics at a glance.
+* Created a dashboard highlighting various insights about Patient Frequencies, Satisfaction scores, etc.
+* Made use of different visualizations for various types of data, such as Data Tiles, bar/column charts and Line charts.
+
+
+# Model View   
+
+![2024-07-07 (8)](https://github.com/vishalvinod175/City-Care-Hospital-Analytics/assets/164670302/788e0e7a-3ab5-4c73-a4ff-b428787d7161)   
+
+* Add a Parameter to switch between "Average Wait time" and "Average Patient Satisfaction Score" to use in the form of a slicer.
+* Go to the Model View to connect the "Date" Columns from "date" table and "Hospital ER" table.
+
+
+
+# Final Dashboard   
+
+![2024-07-07 (9)](https://github.com/vishalvinod175/City-Care-Hospital-Analytics/assets/164670302/b6fa83e7-2595-42b7-be2b-55676acb84b8)   
+![2024-07-07 (10)](https://github.com/vishalvinod175/City-Care-Hospital-Analytics/assets/164670302/56f241b4-9efb-49d1-92e0-f19d01c6dc13)
 
 
 
 
-![2024-07-05](https://github.com/vishalvinod175/Hospital-Analytics-PowerBI-DAX-Queries/assets/164670302/af6784c4-4b60-4925-9528-26a9c1c30da6)
+
+
+
 
 
 
