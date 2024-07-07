@@ -95,32 +95,33 @@ Adjust Staffing Based on Volume Trends:
 * ### Enhance Operational Efficiency   
 
 Reduce Wait Times:
-1. Streamline the triage process to ensure quick and efficient patient assessment and prioritization, potentially reducing the average wait time of 35 minutes.    
-2. Introduce an online check-in system to allow patients to register before arriving at the ER, reducing congestion and wait times upon arrival.    
+1. Streamline the admission process to make sure that quick and efficient patient assessment and prioritization, potentially reducing the average wait time of 35 minutes.    
+2. Introduce an online check-in system to allow patients to register before arriving at the ER, reducing congestion and wait times upon arrival. This will enable them to directly seek treatments, access doctors and laboratories. 
 
 * ### Improve Patient Satisfaction   
 
 Targeted Satisfaction Improvements:
 1. Analyze the 24% of patients who provided ratings to identify common issues and address them. This can help improve the overall satisfaction score from the current average of 5.   
-2. Enhance patient communication by providing regular updates on wait times and treatment progress.    
+2. Enhance patient communication by providing regular updates on wait times and treatment progress. This will keep them in the loop to the next required steps in the treatment.   
 
 * ### Streamline Referral Processes   
 
 Optimize Referral System:
 1. Implement an electronic referral system to ensure seamless communication and reduce delays between the ER and referral departments.   
-2. Regularly review referral processes to identify bottlenecks and ensure patients are referred to the appropriate departments in a timely manner.    
+2. Regularly review referral processes to identify bottlenecks and ensure patients are referred to the appropriate departments in a timely manner.
+3. Make sure the SOPs for communication between various departments is streamlined and confusion-free.    
 
 * ### Address Demographic-Specific Needs    
 
 Tailored Health Programs:
 1. Develop specific health programs and services for different age groups, given that adults are the largest patient group but children and teenagers also constitute a significant portion.    
-2. Offer culturally competent care and targeted health education to address the needs of diverse racial groups, as indicated by the satisfaction heatmap.    
+2. Offer culturally competent care and targeted health education to address the needs of diverse racial groups who are in need of medical advice, as indicated by the satisfaction heatmap.    
 
 * ### Leverage Technology    
 
-Implement Digital Health Solutions:
-1. Use telemedicine services for non-emergency consultations, which can reduce the number of unnecessary ER visits.   
-2. Develop a mobile app for patient scheduling, check-ins, and accessing health information to improve the overall patient experience.    
+Implement Digital Health Solutions:   
+
+1. Develop a mobile app for patient scheduling, check-ins, and accessing health information to improve the overall patient experience.    
 
 * ### Continuous Improvement   
 
