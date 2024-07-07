@@ -136,16 +136,7 @@ Regular Data Analysis:
 
 By implementing these targeted suggestions, the Emergency Room can enhance its operational efficiency, improve patient satisfaction, and better manage its resources to provide high-quality care to its patients.
 
-
-
-
-
-
-
-
-
-
-
+# CODE   
 
 1) Load the Data. Open the PowerQuery Editor to change the name of the tables and columns, according to your ease. Make sure the data is accurate with the correct Datatypes.
 2) Open the table view, you can create a new table to accomodate new Measures and Columns.
